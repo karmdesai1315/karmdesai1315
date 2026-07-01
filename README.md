@@ -45,6 +45,12 @@ company = "Conrex Steel Ltd."
 duration = "4 months, May 2022 – Aug 2022"
 takeaway = "Collaborated on various pressure vessel head projects, utilized SolidWorks, Excel, custom programming"
 ```
+## Capstone Project
+### [S.N.O.O.P.I - Safety Network of Operating Parameters/Instructions]
+* Link: https://github.com/ace-design/dog-robot
+* Description: Co-developed a Python and ROS-based interface with a 5-person team, implementing real-time hazard-mitigation algorithms for a Unitree Go2 Air robotic dog
+* Project Mentors: Dr. Sébastien Mosser, Dr. Denise Geiskkovitch
+
 
 ## Tech and Tools
 <div align="center">
